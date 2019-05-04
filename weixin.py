@@ -13,11 +13,11 @@ import threading
 
 
 class Spider:
-    HOST = '192.168.76.148'
+    HOST = '127.0.0.1'
     PORT = 27017
     MONGODB = 'spider'
-    USERNAME = 'HokYng'
-    PASSWORD = '427541'
+    USERNAME = '**********'
+    PASSWORD = '**********'
     USER_AGENTS = [
         'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko',
         'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36'
