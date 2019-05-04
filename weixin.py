@@ -119,8 +119,8 @@ class Spider:
 
 
 if __name__ == '__main__':
-    username = '3523670064@qq.com'
-    passwd = '427541hy'
+    username = '*******@qq.com'
+    passwd = '***********'
     spider = Spider()
     spider.wechat_login(username, passwd)
     spider.get_chat('python')
